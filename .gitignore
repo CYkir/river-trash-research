@@ -1,10 +1,7 @@
-# Abaikan semua dataset lokal dan publik (termasuk TACO)
-raw_data/
+# Abaikan folder gambar spesifik yang ada di dalam TACO
+raw_data/public_dataset/taco/TACO/data/
 
-# Jika ingin lebih spesifik ke folder TACO saja:
-# raw_data/public_dataset/taco/
-
-# Abaikan juga sampah bawaan Mac dan Jupyter Notebook di dalam folder tersebut
+# Abaikan juga sampah bawaan Mac dan Jupyter Notebook di seluruh project
 **/__MACOSX/
 **/.ipynb_checkpoints/
 
