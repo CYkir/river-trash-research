@@ -1,9 +1,13 @@
-# Abaikan folder gambar spesifik yang ada di dalam TACO
+# 1. Blokir folder gambar spesifik dari TACO
 raw_data/public_dataset/taco/TACO/data/
 
-# Abaikan juga sampah bawaan Mac dan Jupyter Notebook di seluruh project
+# 2. Blokir folder dataset lokal (sungai_A, sungai_B, sungai_C) agar tidak membuat Git berat
+raw_data/local_dataset/
+
+# 3. Blokir folder export dari Roboflow karena isinya biasanya duplikat gambar
+roboflow_export/
+
+# 4. Abaikan file sampah dan cache Python/Jupyter di seluruh project
 **/__MACOSX/
 **/.ipynb_checkpoints/
-
-# Abaikan export dataset lainnya jika ukurannya besar
-roboflow_export/
+**/__pycache__/
