@@ -1,0 +1,12 @@
+# Abaikan semua dataset lokal dan publik (termasuk TACO)
+raw_data/
+
+# Jika ingin lebih spesifik ke folder TACO saja:
+# raw_data/public_dataset/taco/
+
+# Abaikan juga sampah bawaan Mac dan Jupyter Notebook di dalam folder tersebut
+**/__MACOSX/
+**/.ipynb_checkpoints/
+
+# Abaikan export dataset lainnya jika ukurannya besar
+roboflow_export/
