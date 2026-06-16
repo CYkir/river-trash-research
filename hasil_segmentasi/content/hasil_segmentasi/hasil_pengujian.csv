@@ -1,0 +1,17 @@
+lokasi,gambar,jumlah_objek_terdeteksi,area_sampah_pixel,total_area_pixel,persentase_tutupan_sampah,kategori_pencemaran_visual,path_hasil_segmentasi
+titik_2,B_test_008.jpeg,12,295163,1638400,18.02,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_008.jpeg
+titik_2,B_test_007.jpeg,5,102428,1638400,6.25,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_007.jpeg
+titik_2,B_test_002.jpeg,7,209577,1638400,12.79,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_002.jpeg
+titik_2,B_test_001.jpeg,8,225377,1638400,13.76,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_001.jpeg
+titik_2,B_test_006.jpeg,7,114646,1638400,7.0,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_006.jpeg
+titik_2,B_test_005.jpeg,8,211683,1638400,12.92,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_005.jpeg
+titik_2,B_test_004.jpeg,11,277303,1638400,16.93,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_004.jpeg
+titik_2,B_test_003.jpeg,8,143187,1638400,8.74,Rendah,/content/hasil_segmentasi/titik_2/hasil_B_test_003.jpeg
+tiitk_1,A_test_006.jpeg,8,121733,1003408,12.13,Rendah,/content/hasil_segmentasi/tiitk_1/hasil_A_test_006.jpeg
+tiitk_1,A_test_008.jpeg,9,168038,1003408,16.75,Rendah,/content/hasil_segmentasi/tiitk_1/hasil_A_test_008.jpeg
+tiitk_1,A_test_001.jpeg,19,513838,1638400,31.36,Sedang,/content/hasil_segmentasi/tiitk_1/hasil_A_test_001.jpeg
+tiitk_1,A_test_002.jpeg,5,109437,1638400,6.68,Rendah,/content/hasil_segmentasi/tiitk_1/hasil_A_test_002.jpeg
+tiitk_1,A_test_004.jpeg,7,239408,1638400,14.61,Rendah,/content/hasil_segmentasi/tiitk_1/hasil_A_test_004.jpeg
+tiitk_1,A_test_003.jpeg,10,355094,1638400,21.67,Sedang,/content/hasil_segmentasi/tiitk_1/hasil_A_test_003.jpeg
+tiitk_1,A_test_007.jpeg,4,56571,1003408,5.64,Rendah,/content/hasil_segmentasi/tiitk_1/hasil_A_test_007.jpeg
+tiitk_1,A_test_005.jpeg,6,89025,1003408,8.87,Rendah,/content/hasil_segmentasi/tiitk_1/hasil_A_test_005.jpeg
